@@ -1,0 +1,7 @@
+D:\C#\EyeCoding\35 Static\bin\Debug\35 Static.exe.config
+D:\C#\EyeCoding\35 Static\bin\Debug\35 Static.exe
+D:\C#\EyeCoding\35 Static\bin\Debug\35 Static.pdb
+D:\C#\EyeCoding\35 Static\obj\Debug\35 Static.csproj.AssemblyReference.cache
+D:\C#\EyeCoding\35 Static\obj\Debug\35 Static.csproj.CoreCompileInputs.cache
+D:\C#\EyeCoding\35 Static\obj\Debug\35 Static.exe
+D:\C#\EyeCoding\35 Static\obj\Debug\35 Static.pdb

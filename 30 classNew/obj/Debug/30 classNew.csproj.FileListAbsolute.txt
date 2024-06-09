@@ -1,0 +1,7 @@
+D:\C#\EyeCoding\30 classNew\obj\Debug\30 classNew.csproj.AssemblyReference.cache
+D:\C#\EyeCoding\30 classNew\obj\Debug\30 classNew.csproj.CoreCompileInputs.cache
+D:\C#\EyeCoding\30 classNew\bin\Debug\30 classNew.exe.config
+D:\C#\EyeCoding\30 classNew\bin\Debug\30 classNew.exe
+D:\C#\EyeCoding\30 classNew\bin\Debug\30 classNew.pdb
+D:\C#\EyeCoding\30 classNew\obj\Debug\30 classNew.exe
+D:\C#\EyeCoding\30 classNew\obj\Debug\30 classNew.pdb

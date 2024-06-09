@@ -1,0 +1,7 @@
+D:\C#\EyeCoding\07boolcharobject\bin\Debug\07boolcharobject.exe.config
+D:\C#\EyeCoding\07boolcharobject\bin\Debug\07boolcharobject.exe
+D:\C#\EyeCoding\07boolcharobject\bin\Debug\07boolcharobject.pdb
+D:\C#\EyeCoding\07boolcharobject\obj\Debug\07boolcharobject.csproj.AssemblyReference.cache
+D:\C#\EyeCoding\07boolcharobject\obj\Debug\07boolcharobject.csproj.CoreCompileInputs.cache
+D:\C#\EyeCoding\07boolcharobject\obj\Debug\07boolcharobject.exe
+D:\C#\EyeCoding\07boolcharobject\obj\Debug\07boolcharobject.pdb

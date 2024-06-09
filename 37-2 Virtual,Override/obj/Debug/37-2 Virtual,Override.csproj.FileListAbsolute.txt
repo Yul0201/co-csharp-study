@@ -1,0 +1,7 @@
+D:\C#\EyeCoding\37-2 Virtual,Override\bin\Debug\37-2 Virtual,Override.exe.config
+D:\C#\EyeCoding\37-2 Virtual,Override\bin\Debug\37-2 Virtual,Override.exe
+D:\C#\EyeCoding\37-2 Virtual,Override\bin\Debug\37-2 Virtual,Override.pdb
+D:\C#\EyeCoding\37-2 Virtual,Override\obj\Debug\37-2 Virtual,Override.csproj.AssemblyReference.cache
+D:\C#\EyeCoding\37-2 Virtual,Override\obj\Debug\37-2 Virtual,Override.csproj.CoreCompileInputs.cache
+D:\C#\EyeCoding\37-2 Virtual,Override\obj\Debug\37-2 Virtual,Override.exe
+D:\C#\EyeCoding\37-2 Virtual,Override\obj\Debug\37-2 Virtual,Override.pdb

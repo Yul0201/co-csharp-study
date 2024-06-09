@@ -1,0 +1,7 @@
+D:\C#\EyeCoding\EyeCoding\bin\Debug\EyeCoding.exe.config
+D:\C#\EyeCoding\EyeCoding\bin\Debug\EyeCoding.exe
+D:\C#\EyeCoding\EyeCoding\bin\Debug\EyeCoding.pdb
+D:\C#\EyeCoding\EyeCoding\obj\Debug\IntFloatString.csproj.AssemblyReference.cache
+D:\C#\EyeCoding\EyeCoding\obj\Debug\IntFloatString.csproj.CoreCompileInputs.cache
+D:\C#\EyeCoding\EyeCoding\obj\Debug\EyeCoding.exe
+D:\C#\EyeCoding\EyeCoding\obj\Debug\EyeCoding.pdb

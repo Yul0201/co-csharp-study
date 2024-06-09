@@ -1,0 +1,7 @@
+D:\C#\EyeCoding\34 This\bin\Debug\34 This.exe.config
+D:\C#\EyeCoding\34 This\bin\Debug\34 This.exe
+D:\C#\EyeCoding\34 This\bin\Debug\34 This.pdb
+D:\C#\EyeCoding\34 This\obj\Debug\34 This.csproj.AssemblyReference.cache
+D:\C#\EyeCoding\34 This\obj\Debug\34 This.csproj.CoreCompileInputs.cache
+D:\C#\EyeCoding\34 This\obj\Debug\34 This.exe
+D:\C#\EyeCoding\34 This\obj\Debug\34 This.pdb

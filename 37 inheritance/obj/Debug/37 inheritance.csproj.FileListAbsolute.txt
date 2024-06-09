@@ -1,0 +1,7 @@
+D:\C#\EyeCoding\37 inheritance\obj\Debug\37 inheritance.csproj.AssemblyReference.cache
+D:\C#\EyeCoding\37 inheritance\obj\Debug\37 inheritance.csproj.CoreCompileInputs.cache
+D:\C#\EyeCoding\37 inheritance\bin\Debug\37 inheritance.exe.config
+D:\C#\EyeCoding\37 inheritance\bin\Debug\37 inheritance.exe
+D:\C#\EyeCoding\37 inheritance\bin\Debug\37 inheritance.pdb
+D:\C#\EyeCoding\37 inheritance\obj\Debug\37 inheritance.exe
+D:\C#\EyeCoding\37 inheritance\obj\Debug\37 inheritance.pdb

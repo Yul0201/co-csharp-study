@@ -1,0 +1,7 @@
+D:\C#\EyeCoding\15 StringInterpolation\bin\Debug\15 StringInterpolation.exe.config
+D:\C#\EyeCoding\15 StringInterpolation\bin\Debug\15 StringInterpolation.exe
+D:\C#\EyeCoding\15 StringInterpolation\bin\Debug\15 StringInterpolation.pdb
+D:\C#\EyeCoding\15 StringInterpolation\obj\Debug\15 StringInterpolation.csproj.AssemblyReference.cache
+D:\C#\EyeCoding\15 StringInterpolation\obj\Debug\15 StringInterpolation.csproj.CoreCompileInputs.cache
+D:\C#\EyeCoding\15 StringInterpolation\obj\Debug\15 StringInterpolation.exe
+D:\C#\EyeCoding\15 StringInterpolation\obj\Debug\15 StringInterpolation.pdb
