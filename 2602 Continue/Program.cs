@@ -11,7 +11,6 @@ namespace _2602_continue
         static void Main(string[] args)
         {
             //for문에서 continue 문
-            Console.WriteLine(Parallel"PR Test");
 
             for (int i = 0; i < 3; i++)
             {
